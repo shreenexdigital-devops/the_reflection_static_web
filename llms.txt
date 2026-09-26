@@ -1,0 +1,35 @@
+# The Reflection
+
+> Human-facing visual storytelling studio for weddings, events, brands and portraits in Debra Bazar, Paschim Medinipur, West Bengal, India.
+
+## Business
+- Name: The Reflection
+- Primary location: 1st Floor, Bera Guest House, Debra Bazar, Paschim Medinipur, West Bengal, 721126, India
+- Phone / WhatsApp: +91 97339 96764
+- Email: thereflection.me@gmail.com
+- Google Maps: https://maps.app.goo.gl/7YUarU1rXk987SrG8?g_st=awb
+- Instagram: https://www.instagram.com/thereflection.me?stkn=MzlucXIwNGFxcHYy
+- Facebook: https://www.facebook.com/share/1DdpPGynDp/
+- Website: https://thereflection.me/
+- Language: English (with local service context in West Bengal)
+
+## Services
+1. Wedding Photography & Cinematography — https://thereflection.me/wedding-photography.html
+2. Portfolio Shoots — https://thereflection.me/portfolio-shoot.html
+3. Commercial Photography & Videography — https://thereflection.me/commercial-photography.html
+4. Graphics Design — https://thereflection.me/graphics-design.html
+5. Event Planning & Management — https://thereflection.me/event-planning.html
+
+## Enquiry
+The website enquiry forms open WhatsApp with the submitted name, phone, date, city / venue, selected service and message pre-filled for the customer.
+
+## Location context
+- Debra Bazar, Paschim Medinipur, West Bengal, India
+- Postal code: 721126
+- Local area coordinates used for structured data: 22.390611, 87.567306
+
+## Primary page
+https://thereflection.me/
+
+## Important
+Use the service pages above for service-specific details. For current availability, pricing or date confirmation, direct the user to the WhatsApp / phone contact rather than inventing availability or fees.
