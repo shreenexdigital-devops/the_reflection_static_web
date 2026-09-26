@@ -77,3 +77,18 @@ No build step is required.
 ## Production note
 
 The content is static by design for speed and crawlability. The enquiry flow deliberately opens WhatsApp instead of posting to a backend.
+
+## Latest responsive QA pass
+
+The latest revision includes responsive layout hardening:
+
+- Removed literal `\\n` tokens from visible HTML copy and restored intentional heading line breaks with `<br>`.
+- Fixed the homepage selected-work grid nesting that allowed three cards to escape the grid and become full-width, excessively tall cards.
+- Reworked responsive image boxes with stable aspect ratios to prevent oversized cards and height jumps.
+- Compact service-card layouts for tablet widths (2 columns at 720–899px, 3 columns at 900–1199px, 5 columns from 1200px).
+- Added zero-min grid tracks and overflow wrapping so long headings and labels cannot force layout expansion.
+- Corrected hero image sizing to avoid percentage-height sizing cycles inside auto-sized grids.
+- Constrained work captions so metadata cannot escape narrow cards.
+- Standardized 404 hero sizing with classes instead of inline layout rules.
+
+Automated QA covered all 7 HTML pages at 320×568, 390×844, 768×1024, 1024×768 and 1440×900, including document-width checks, visible-element overflow checks, menu-open containment checks and literal `\\n` scans. All 35 layout cases passed. JavaScript syntax and core navigation/FAQ/WhatsApp form smoke tests also passed.
